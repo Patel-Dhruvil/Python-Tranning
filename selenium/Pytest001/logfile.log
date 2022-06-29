@@ -1,0 +1,6 @@
+2022-06-21 16:05:54,083 :INFO :test_firstTestDemo :assert success
+2022-06-21 16:05:54,096 :INFO :test_secTestDemo :assert fail 
+2022-06-21 16:05:54,096 :WARNING :test_secTestDemo :here is warning
+2022-06-21 16:07:00,486 :INFO :test_firstTestDemo :assert success
+2022-06-21 16:07:00,497 :INFO :test_secTestDemo :assert fail 
+2022-06-21 16:07:00,497 :WARNING :test_secTestDemo :here is warning

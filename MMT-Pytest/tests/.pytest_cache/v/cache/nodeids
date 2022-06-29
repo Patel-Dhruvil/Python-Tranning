@@ -1,0 +1,6 @@
+[
+  "test_HomePage.py::TestHomePage::test_formSubmission[getData0]",
+  "test_MMT.py::TestHomePage::test_TicketBook",
+  "test_e2e.py::TestOne::test_e2e",
+  "test_empty_data.py::TestHomePage001::test_ReturnDateEmpty"
+]
